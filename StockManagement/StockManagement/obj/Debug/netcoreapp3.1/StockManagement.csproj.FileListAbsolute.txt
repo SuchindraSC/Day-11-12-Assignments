@@ -1,0 +1,16 @@
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CopyComplete
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache

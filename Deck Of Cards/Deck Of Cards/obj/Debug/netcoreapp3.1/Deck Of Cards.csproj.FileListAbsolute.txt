@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.exe
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.deps.json
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.dll
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.pdb
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.dll
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.pdb
+C:\Users\ADVANCED\Desktop\Day 11 & 12 Assignment\Deck Of Cards\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.genruntimeconfig.cache

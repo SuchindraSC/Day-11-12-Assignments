@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1qQRYI3teqYihezcqNuCRHBHuULvLYVqdKq7EftDFhvk33kfEGDK5QISQLGho/9+vcR2eY8XrryoY1ekYkbJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADVANCED\\Desktop\\Day 11 & 12 Assignment\\StockManagement\\StockManagement\\StockManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADVANCED\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\ADVANCED\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
